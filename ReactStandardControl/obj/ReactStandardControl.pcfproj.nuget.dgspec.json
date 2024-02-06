@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/demo-pcf-canvasapp/ReactStandardControl/ReactStandardControl.pcfproj": {}
+    "C:\\Users\\Usairo Lenovo\\Documents\\bwd\\demo-pcf-canvasapp\\pcf-for-canvas\\ReactStandardControl\\ReactStandardControl.pcfproj": {}
   },
   "projects": {
-    "/workspaces/demo-pcf-canvasapp/ReactStandardControl/ReactStandardControl.pcfproj": {
+    "C:\\Users\\Usairo Lenovo\\Documents\\bwd\\demo-pcf-canvasapp\\pcf-for-canvas\\ReactStandardControl\\ReactStandardControl.pcfproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/demo-pcf-canvasapp/ReactStandardControl/ReactStandardControl.pcfproj",
+        "projectUniqueName": "C:\\Users\\Usairo Lenovo\\Documents\\bwd\\demo-pcf-canvasapp\\pcf-for-canvas\\ReactStandardControl\\ReactStandardControl.pcfproj",
         "projectName": "ReactStandardControl",
-        "projectPath": "/workspaces/demo-pcf-canvasapp/ReactStandardControl/ReactStandardControl.pcfproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/demo-pcf-canvasapp/ReactStandardControl/obj/",
+        "projectPath": "C:\\Users\\Usairo Lenovo\\Documents\\bwd\\demo-pcf-canvasapp\\pcf-for-canvas\\ReactStandardControl\\ReactStandardControl.pcfproj",
+        "packagesPath": "C:\\Users\\Usairo Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usairo Lenovo\\Documents\\bwd\\demo-pcf-canvasapp\\pcf-for-canvas\\ReactStandardControl\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Usairo Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net462"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +44,17 @@
               "version": "[1.*, )"
             }
           }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
         }
       }
     }

@@ -1,0 +1,2 @@
+C:\Users\Usairo Lenovo\Documents\bwd\demo-pcf-canvasapp\pcf-for-canvas\ReactStandardControl\obj\Debug\ReactStandardControl.pcfproj.AssemblyReference.cache
+C:\Users\Usairo Lenovo\Documents\bwd\demo-pcf-canvasapp\pcf-for-canvas\ReactStandardControl\obj\Debug\ReactStandardControl.pcfproj.CoreCompileInputs.cache

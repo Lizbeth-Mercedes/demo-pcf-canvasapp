@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bGYU1e1ztZRnVDe01KSmKYusDfvUEjovPYwNoaL5tqnaTDXYs7J2uabDsPVjMwJ3jgUdFImHsV/d1fPBcT+MUw==",
+  "dgSpecHash": "emq+g6mYm/g5Gx6YSIqT8fKpm445/gy41W3wOaTcw1T81fFMmb0GCewKv/7GYjharfNRcuv4sG/M2mwOgvKelA==",
   "success": true,
-  "projectFilePath": "/workspaces/demo-pcf-canvasapp/ReactStandardControl/ReactStandardControl.pcfproj",
+  "projectFilePath": "C:\\Users\\Usairo Lenovo\\Documents\\bwd\\demo-pcf-canvasapp\\pcf-for-canvas\\ReactStandardControl\\ReactStandardControl.pcfproj",
   "expectedPackageFiles": [
-    "/home/codespace/.nuget/packages/microsoft.powerapps.msbuild.pcf/1.30.2/microsoft.powerapps.msbuild.pcf.1.30.2.nupkg.sha512"
+    "C:\\Users\\Usairo Lenovo\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.30.2\\microsoft.powerapps.msbuild.pcf.1.30.2.nupkg.sha512"
   ],
   "logs": []
 }
