@@ -8,8 +8,8 @@
   <Import Project="$(PowerAppsTargetsPath)\Microsoft.PowerApps.VisualStudio.Pcf.props" Condition="Exists('$(PowerAppsTargetsPath)\Microsoft.PowerApps.VisualStudio.Pcf.props')"/>
   
   <PropertyGroup>
-    <Name>LinearInputControl</Name>
-    <ProjectGuid>2a55a34f-53a1-42a9-a3b2-4aa40dba7bae</ProjectGuid>
+    <Name>ReactStandardControl</Name>
+    <ProjectGuid>0df84c56-2f55-4a80-ac9f-85b7a14bf378</ProjectGuid>
     <OutputPath>$(MSBuildThisFileDirectory)out\controls</OutputPath>
   </PropertyGroup>
 

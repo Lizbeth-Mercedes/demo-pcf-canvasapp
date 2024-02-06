@@ -11,7 +11,11 @@
     "start": "pcf-scripts start",
     "refreshTypes": "pcf-scripts refreshTypes"
   },
-  "dependencies": {},
+  "dependencies": {
+    "office-ui-fabric-react": "^6.189.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
   "devDependencies": {
     "@microsoft/eslint-plugin-power-apps": "^0.2.6",
     "@types/node": "^18.8.2",

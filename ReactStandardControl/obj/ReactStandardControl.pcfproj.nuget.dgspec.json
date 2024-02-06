@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/demo-pcf-canvasapp/ReactStandardControl/ReactStandardControl.pcfproj": {}
+  },
+  "projects": {
+    "/workspaces/demo-pcf-canvasapp/ReactStandardControl/ReactStandardControl.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/demo-pcf-canvasapp/ReactStandardControl/ReactStandardControl.pcfproj",
+        "projectName": "ReactStandardControl",
+        "projectPath": "/workspaces/demo-pcf-canvasapp/ReactStandardControl/ReactStandardControl.pcfproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/demo-pcf-canvasapp/ReactStandardControl/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,13 +1,13 @@
 [
    {
-     "name": "powerapps-pcf-linear-input-control",
+     "name": "powerapps-pcf-react-standard-facepile-control",
      "source": "PowerAppsDev",
-     "title": "Linear Input Power Apps component framework sample",
-     "shortDescription": "This sample component changes the user experience of interacting with numeric types on the form.",
-     "url": "https://github.com/microsoft/PowerApps-Samples/tree/master/component-framework/LinearInputControl",
-     "downloadUrl":"https://github.com/microsoft/PowerApps-Samples/tree/master/component-framework/LinearInputControl",
+     "title": "Implementing the FacePile component Power Apps component framework sample",
+     "shortDescription": "This sample shows how to use React to create components using Power Apps component framework.",
+     "url": "https://github.com/microsoft/PowerApps-Samples/tree/master/component-framework/ReactStandardControl",
+     "downloadUrl":"https://github.com/microsoft/PowerApps-Samples/tree/master/component-framework/ReactStandardControl",
      "longDescription": [
-       "This sample component changes the user experience of interacting with numeric types on the form. Instead of typing in the numbers, the linear input component provides a linear slider using which the value of the attribute can be set on the form."
+       "This sample shows how to use React to create components using Power Apps component framework. The facepile sample component is implemented based on React and the Office UI Fabric React components. The code may not reveal the best practices for the mentioned third-party libraries."
      ],
      "creationDateTime": "2021-06-09",
      "updateDateTime": "2023-08-01",
@@ -25,14 +25,14 @@
        },
        {
          "key": "PowerApps-PCF-SAMPLE-FEATURES",
-         "value": "linear input control"
+         "value": "facepile react control"
        }
      ],
      "thumbnails": [
        {
          "type": "image",
          "order": 100,
-         "url": "https://learn.microsoft.com/power-apps/developer/component-framework/media/linear-input-control.png",
+         "url": "https://learn.microsoft.com/power-apps/developer/component-framework/media/react-facepile.png",
          "alt": "Preview of the sample"
        }
      ],
@@ -57,8 +57,8 @@
          "url": "https://learn.microsoft.com/power-apps/developer/component-framework/code-components-best-practices"
        },
        {
-         "name": "Implementing linear input component",
-         "url": "https://learn.microsoft.com/power-apps/developer/component-framework/sample-controls/linear-input-control"
+         "name": "Implementing the FacePile component",
+         "url": "https://learn.microsoft.com/power-apps/developer/component-framework/sample-controls/react-facepile-control"
        }
      ]
    }

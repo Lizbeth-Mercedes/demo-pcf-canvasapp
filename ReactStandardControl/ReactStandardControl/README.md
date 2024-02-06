@@ -5,16 +5,15 @@ products:
 - power-platform
 - power-apps
 page_type: sample
-description: "This sample component changes the user experience of interacting with numeric types on the form. Instead of typing in the numbers, the linear input component provides a linear slider using which the value of the attribute can be set on the form."
+description: "This sample shows how to use React to create components using Power Apps component framework. The facepile sample component is implemented based on React and the Office UI Fabric React components. The code may not reveal the best practices for the mentioned third-party libraries. "
 ---
-# Linear Input Power Apps component framework sample
+# Implementing the FacePile component Power Apps component framework sample
 
 ## Summary
 
-This sample component changes the user experience of interacting with numeric types on the form. Instead of typing in the numbers, the linear input component provides a linear slider using which the value of the attribute can be set on the form.
+This sample shows how to use React to create components using Power Apps component framework. The facepile sample component is implemented based on React and the Office UI Fabric React components. The code may not reveal the best practices for the mentioned third-party libraries.
 
-
-![Preview of the sample](https://learn.microsoft.com/power-apps/developer/component-framework/media/linear-input-control.png)
+![Preview of the sample](https://learn.microsoft.com/power-apps/developer/component-framework/media/react-facepile.png)
 
 ## Compatibility
 
@@ -46,7 +45,8 @@ Follow the steps in the [README.md](../README.md) to generate solutions containi
 
 ## More information
 
-See [Implementing linear input component](https://learn.microsoft.com/power-apps/developer/component-framework/sample-controls/linear-input-control)
+See [Implementing the FacePile component](https://learn.microsoft.com/power-apps/developer/component-framework/sample-controls/react-facepile-control)
+
 
 ## Disclaimer
 

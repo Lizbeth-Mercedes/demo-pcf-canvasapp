@@ -117,24 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="LinearInputControl_Display_Key" xml:space="preserve">
-    <value>LinearInputControl</value>
-    <comment>Display text for LinearInputControl</comment>
+  <data name="ReactStandardControl_Display_Key" xml:space="preserve">
+    <value>ReactStandardControl</value>
+    <comment>Display text for ReactStandardControl</comment>
   </data>
-  <data name="LinearInputControl_Desc_Key" xml:space="preserve">
-    <value>LinearInputControl</value>
-    <comment>Display text for LinearInputControl description</comment>
+  <data name="ReactStandardControl_Desc_Key" xml:space="preserve">
+    <value>ReactStandardControl</value>
+    <comment>Display text for ReactStandardControl description</comment>
   </data>
-  <data name="controlValue_Display_Key" xml:space="preserve">
-    <value>ControlValue</value>
-    <comment>Display text for ControlValue</comment>
+  <data name="numberOfFaces_Display_Key" xml:space="preserve">
+    <value>NumberOfFaces</value>
+    <comment>Display text for NumberOfFaces</comment>
   </data>
-  <data name="controlValue_Desc_Key" xml:space="preserve">
-    <value>ControlValue</value>
-    <comment>Display text for ControlValue description</comment>
-  </data>
-  <data name="LinearInputControl_ButtonLabel_Key" xml:space="preserve">
-    <value>LinearInputControl</value>
-    <comment>Label text for LinearInputControl button</comment>
+  <data name="numberOfFaces_Desc_Key" xml:space="preserve">
+    <value>NumberOfFaces</value>
+    <comment>Display text for NumberOfFaces description</comment>
   </data>
 </root>
