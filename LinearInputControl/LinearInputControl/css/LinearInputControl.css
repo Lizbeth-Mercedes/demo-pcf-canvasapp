@@ -21,12 +21,12 @@
 	outline: none;
 }
 .SampleNamespace\.LinearInputControl input[type=range].linearslider::-webkit-slider-runnable-track {   
-	background: #666;
+	background: #1398c8;
 	height:2px;
 	cursor:pointer
 }   
 .SampleNamespace\.LinearInputControl input[type=range].linearslider::-webkit-slider-thumb {   
-	background: #666;   
+	background: #1398c8;   
 	border:0 solid #f00;
 	height:24px;
 	width:10px;
