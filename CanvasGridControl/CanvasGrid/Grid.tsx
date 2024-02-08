@@ -50,9 +50,11 @@ const onRenderDetailsHeader: IRenderFunction<IDetailsHeaderProps> = (props, defa
     if (props && defaultRender) {
         return (
             <Sticky stickyPosition={StickyPositionType.Header} isScrollSynced>
-                {defaultRender({
-                    ...props,
-                })}
+                <div style={{ fontSize: '20px' }}>
+                    {defaultRender({
+                        ...props,
+                    })}
+                </div>
             </Sticky>
         );
     }
@@ -65,7 +67,11 @@ const onRenderItemColumn = (
     column?: IColumn,
 ) => {
     if (column && column.fieldName && item) {
-        return <>{item?.getFormattedValue(column.fieldName)}</>;
+        return (
+            <span style={{ fontSize: '20px' }}>
+                {item?.getFormattedValue(column.fieldName)}
+            </span>
+        );
     }
     return <></>;
 };

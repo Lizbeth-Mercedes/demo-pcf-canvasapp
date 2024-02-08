@@ -2,7 +2,7 @@
 <manifest>
   <control namespace="SampleNamespace"
     constructor="CanvasGrid"
-    version="1.0.0"
+    version="3.0.0"
     display-name-key="CanvasGrid"
     description-key="CanvasGrid description"
     control-type="standard">
