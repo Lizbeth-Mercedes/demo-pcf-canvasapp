@@ -12,3 +12,8 @@
 # msbuild output directories
 /bin
 /obj
+
+/CanvasGridControl/CanvasGrid/node_modules
+/CanvasGridControl/CanvasGrid/out
+/CanvasGridControl/CanvasGrid/bin
+/CanvasGridControl/CanvasGrid/obj
