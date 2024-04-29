@@ -21,7 +21,7 @@ git clone <url_del_repositorio>
 2.  Navega a la carpeta del proyecto
 
 ```bash
-cd <nombre_del_proyecto>
+cd  cd CanvasGridControl
 ```
 
 3. Instala las dependencias:
