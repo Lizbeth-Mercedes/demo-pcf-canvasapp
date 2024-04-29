@@ -47,6 +47,13 @@ npm start
 ##Despliegue
 Para empaquetar el componente para su despliegue, ejecuta:
 
+Login al entorno
+
+```bash
+pac auth create --url https://entorno-prod.crm.dynamics.com/
+```
+
 ```bash
 pac pcf push --publisher-prefix <prefijo_del_publicador>
 ```
+[Doc oficial del PCF demo de MS](http://https://learn.microsoft.com/en-us/power-apps/developer/component-framework/tutorial-create-canvas-dataset-component?tabs=before "Doc oficial de MS")
