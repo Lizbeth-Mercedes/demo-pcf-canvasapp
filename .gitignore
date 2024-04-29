@@ -1,0 +1,24 @@
+# .gitignore para un proyecto de PCF con React
+
+# Dependencias
+/node_modules
+
+# Archivos de construcción
+/out
+/dist
+
+# Archivos de configuración del IDE
+/.vscode
+/.idea
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno
+/.env
+
+# Archivos de paquete
+/package-lock.json
+/yarn.lock
