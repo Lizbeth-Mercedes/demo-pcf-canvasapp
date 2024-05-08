@@ -56,7 +56,9 @@ pac auth create --url https://entorno-prod.crm.dynamics.com/
 ```bash
 pac pcf push --publisher-prefix <prefijo_del_publicador>
 ```
-[Doc oficial del PCF demo de MS](http://https://learn.microsoft.com/en-us/power-apps/developer/component-framework/tutorial-create-canvas-dataset-component?tabs=before "Doc oficial de MS")
+
+`<Doc oficial del PCF demo de MS>` : <https://learn.microsoft.com/en-us/power-apps/developer/component-framework/tutorial-create-canvas-dataset-component?tabs=before>
 
 
-[Doc oficial del PCF Ciclo de ALM ](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/code-components-alm "Doc oficial de MS")
+`<Doc oficial del PCF Ciclo de ALM>` : <https://learn.microsoft.com/en-us/power-apps/developer/component-framework/code-components-alm>
+
