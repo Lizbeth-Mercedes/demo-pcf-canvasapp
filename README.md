@@ -31,7 +31,7 @@ npm install
 ```
 
 
-  ##Uso
+  ## Uso
 4. Para construir el componente, ejecuta:
 
 ```bash
@@ -44,7 +44,7 @@ npm run build
 npm start
 ```
 
-##Despliegue
+## Despliegue
 Para empaquetar el componente para su despliegue, ejecuta:
 
 Login al entorno
@@ -52,10 +52,12 @@ Login al entorno
 ```bash
 pac auth create --url https://entorno-prod.crm.dynamics.com/
 ```
+Empuje de paquete de solucion al entorno
 
 ```bash
 pac pcf push --publisher-prefix <prefijo_del_publicador>
 ```
+## Documentacion MS
 
 `<Doc oficial del PCF demo de MS>` : <https://learn.microsoft.com/en-us/power-apps/developer/component-framework/tutorial-create-canvas-dataset-component?tabs=before>
 
