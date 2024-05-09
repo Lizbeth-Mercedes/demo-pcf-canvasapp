@@ -21,7 +21,7 @@ git clone <url_del_repositorio>
 2.  Navega a la carpeta del proyecto
 
 ```bash
-cd <nombre_del_proyecto>
+cd  cd CanvasGridControl
 ```
 
 3. Instala las dependencias:
@@ -31,7 +31,7 @@ npm install
 ```
 
 
-  ##Uso
+  ## Uso
 4. Para construir el componente, ejecuta:
 
 ```bash
@@ -44,9 +44,23 @@ npm run build
 npm start
 ```
 
-##Despliegue
+## Despliegue
 Para empaquetar el componente para su despliegue, ejecuta:
+
+Login al entorno
+
+```bash
+pac auth create --url https://entorno-prod.crm.dynamics.com/
+```
+Empuje de paquete de solucion al entorno
 
 ```bash
 pac pcf push --publisher-prefix <prefijo_del_publicador>
 ```
+## Documentacion MS
+
+`<Doc oficial del PCF demo de MS>` : <https://learn.microsoft.com/en-us/power-apps/developer/component-framework/tutorial-create-canvas-dataset-component?tabs=before>
+
+
+`<Doc oficial del PCF Ciclo de ALM>` : <https://learn.microsoft.com/en-us/power-apps/developer/component-framework/code-components-alm>
+
